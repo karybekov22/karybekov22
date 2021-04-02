@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nursultan Karybekov software engineer.
 - 👀 I’m interested in iOS and Anrdoid Development, as well as Machine Learning and Augmented Reality.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development and ML.
 - 📫 How to reach me, @karybekov22 on Telegram and IG.
 - 📫 Email: n.karybekov22@gmail.com
 
